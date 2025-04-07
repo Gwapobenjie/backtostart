@@ -7,7 +7,7 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [darkMode, setDarkMode] = useState(localStorage.getItem("darkMode") === "true");
   const [filter, setFilter] = useState("all"); // State for task filter
-  const API_URL = "https://backend-1-fvoi.onrender.com/api/tasks/";
+  const API_URL = "https://backendforbacktostart.onrender.com/api/tasks/";
 
   const fetchTasks = async () => {
     try {
