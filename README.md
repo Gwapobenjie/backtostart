@@ -4,7 +4,7 @@ username: admin
 password:admin
 
 Live deployed link to frontend (GitHub Pages/Netlify/Vercel).
-https://richiemaeomandam.github.io/backend/
+https://gwapobenjie.github.io/backtostart/
 
 
 GET /api/tasks/ - Fetch all tasks
